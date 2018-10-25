@@ -1,2 +1,2 @@
 # Calculator
-My first project. Calculator
+This is a test of the vim command	
